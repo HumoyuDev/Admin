@@ -13,7 +13,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:4000", 
+        url: "https://admin-x9ez.onrender.com/", 
       },
     ],
     components: {
